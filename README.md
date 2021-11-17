@@ -32,6 +32,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 Theme packages that help to build awesome VSCode extension UIs.
 
+- [Webview UI Toolkit for Visual Studio Code](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code
 - [VSCode Webview Elements](https://www.npmjs.com/package/@bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions
 
 # Contribute
