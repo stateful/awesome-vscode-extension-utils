@@ -1,0 +1,19 @@
+name: Test Awesome List
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
+      - name: Install dependencies
+        run: gem install awesome_bot
+      - name: Run tests
+        run: awesome_bot README.md --allow-redirect --white-list sindresorhus/awesome
