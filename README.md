@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
-  <img width="380px" src="https://raw.githubusercontent.com/stateful/awesome-vscode-extenstion-utils/main/.github/assets/logo.png">
+  <img width="380px" src="https://raw.githubusercontent.com/stateful/awesome-vscode-extension-utils/main/.github/assets/logo.png">
 </div>
 <br/>
 <div align="center">
@@ -18,7 +18,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Table of Contents](#table-of-contents)
 - [Official](#official)
 - [Themes](#themes)
-<!-- - [Data](#data) -->
 - [Contribute](#contribute)
 - [License](#license)
 
