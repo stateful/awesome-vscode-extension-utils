@@ -16,4 +16,4 @@ jobs:
       - name: Install dependencies
         run: gem install awesome_bot
       - name: Run tests
-        run: awesome_bot README.md --allow-redirect --white-list sindresorhus/awesome
+        run: awesome_bot README.md --allow-redirect --white-list sindresorhus/awesome,code.visualstudio.com
