@@ -19,7 +19,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Official](#official)
 - [Themes](#themes)
 - [Contribute](#contribute)
-- [License](#license)
 
 # Official
 
