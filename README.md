@@ -17,6 +17,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 - [Table of Contents](#table-of-contents)
 - [Official](#official)
+- [Data & State Management](data--state-management)
 - [Themes](#themes)
 - [Telemetry](#telemetry)
 - [Contribute](#contribute)
@@ -28,6 +29,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
+
+# Data & State Management
+
+Packages that help extension developer to manage application states and data flow.
+
+- [Tangle](https://github.com/stateful/tangle) - JavaScript state synchronization and event handling for various of different sandbox environments, e.g. worker threads, web workers, iframes, Visual Studio Code Webviews etc
 
 # Themes
 
