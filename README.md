@@ -18,6 +18,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Table of Contents](#table-of-contents)
 - [Official](#official)
 - [Themes](#themes)
+- [Telemetry](#telemetry)
 - [Contribute](#contribute)
 
 # Official
@@ -34,6 +35,12 @@ Theme packages that help to build awesome VSCode extension UIs.
 
 - [Webview UI Toolkit for Visual Studio Code](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code
 - [VSCode Webview Elements](https://www.npmjs.com/package/@bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions
+
+# Telemetry
+
+Packages that help extension to identify usage patterns and basic telemtry.
+
+- [VSCode Extension Telemetry](https://github.com/Microsoft/vscode-extension-telemetry) - Node module to help VS Code extensions send telemetry using application insights
 
 # Contribute
 
