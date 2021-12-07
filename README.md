@@ -19,6 +19,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Official](#official)
 - [Data & State Management](data--state-management)
 - [Themes](#themes)
+- [Testing](#testing)
 - [Telemetry](#telemetry)
 - [Contribute](#contribute)
 
@@ -42,6 +43,12 @@ Theme packages that help to build awesome VSCode extension UIs.
 
 - [Webview UI Toolkit for Visual Studio Code](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code
 - [VSCode Webview Elements](https://www.npmjs.com/package/@bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions
+
+# Testing
+
+Packages that help you to test your extension.
+
+- [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver
 
 # Telemetry
 
