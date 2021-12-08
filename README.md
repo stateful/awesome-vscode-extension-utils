@@ -18,7 +18,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Table of Contents](#table-of-contents)
 - [Official](#official)
 - [Data & State Management](data--state-management)
-- [Themes](#themes)
+- [Component Libraries](#component-libraries)
 - [Testing](#testing)
 - [Logging](#logging)
 - [Telemetry](#telemetry)
@@ -38,7 +38,7 @@ Packages that help extension developer to manage application states and data flo
 
 - [Tangle](https://github.com/stateful/tangle) - JavaScript state synchronization and event handling for various of different sandbox environments, e.g. worker threads, web workers, iframes, Visual Studio Code Webviews etc
 
-# Themes
+# Component Libraries
 
 Theme packages that help to build awesome VSCode extension UIs.
 
