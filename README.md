@@ -20,6 +20,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Data & State Management](data--state-management)
 - [Themes](#themes)
 - [Testing](#testing)
+- [Logging](#logging)
 - [Telemetry](#telemetry)
 - [Contribute](#contribute)
 
@@ -49,6 +50,12 @@ Theme packages that help to build awesome VSCode extension UIs.
 Packages that help you to test your extension.
 
 - [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver
+
+# Logging
+
+Packages for logging and debugging.
+
+- [VSCode-Logging](https://www.npmjs.com/package/@vscode-logging/logger) - A Logging Library for VSCode Extension
 
 # Telemetry
 
