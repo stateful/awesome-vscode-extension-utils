@@ -22,6 +22,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Testing](#testing)
 - [Logging](#logging)
 - [Telemetry](#telemetry)
+- [Blog Posts](#blog-posts)
 - [Contribute](#contribute)
 
 # Official
@@ -49,7 +50,9 @@ Theme packages that help to build awesome VSCode extension UIs.
 
 Packages that help you to test your extension.
 
+- [WDIO VSCode Service](https://github.com/webdriverio-community/wdio-vscode-service) - a port of the VSCode Extension Tester framework into WebdriverIO
 - [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver
+- [VSCode Test](https://github.com/microsoft/vscode-test) - Testing utility for VS Code extensions
 
 # Logging
 
@@ -62,6 +65,12 @@ Packages for logging and debugging.
 Packages that help extension to identify usage patterns and basic telemtry.
 
 - [VSCode Extension Telemetry](https://github.com/Microsoft/vscode-extension-telemetry) - Node module to help VS Code extensions send telemetry using application insights
+
+# Blog Posts
+
+A set of useful blog post related to VSCode extension development.
+
+- [The GitHub Action You Need to Publish VS Code Extensions](https://www.stateful.com/blog/the-github-action-you-need-to-publish-vscode-extensions) - In this blog post we’d like to share how Stateful releases its Marquee extension to the VS Code Marketplace and OpenVSX Registry through GitHub Actions
 
 # Contribute
 
