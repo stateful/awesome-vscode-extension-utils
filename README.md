@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) utilities to build awesome VSCode extensions and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) utilities to build awesome VS Code extensions and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -41,10 +41,10 @@ Packages that help extension developer to manage application states and data flo
 
 # Component Libraries
 
-Theme packages that help to build awesome VSCode extension UIs.
+Theme packages that help to build awesome VS Code extension UIs.
 
 - [Webview UI Toolkit for Visual Studio Code](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code
-- [VSCode Webview Elements](https://www.npmjs.com/package/@bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions
+- [VS Code Webview Elements](https://www.npmjs.com/package/@bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions
 
 # Testing
 
@@ -64,7 +64,8 @@ Packages for logging and debugging.
 
 Packages that help extension to identify usage patterns and basic telemtry.
 
-- [VSCode Extension Telemetry](https://github.com/Microsoft/vscode-extension-telemetry) - Node module to help VS Code extensions send telemetry using application insights
+- [VS Code Extension Telemetry](https://github.com/Microsoft/vscode-extension-telemetry) - Node module to help VS Code extensions send telemetry using application insights
+- [VS Code Telemetry](https://github.com/stateful/vscode-telemetry) - Wrapper around the original telemetry package that helps sending events across extension host and webview environments
 
 # Blog Posts
 
