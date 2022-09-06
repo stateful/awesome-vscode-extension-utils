@@ -72,6 +72,7 @@ Packages that help extension to identify usage patterns and basic telemtry.
 A set of useful blog post related to VSCode extension development.
 
 - [The GitHub Action You Need to Publish VS Code Extensions](https://www.stateful.com/blog/the-github-action-you-need-to-publish-vscode-extensions) - In this blog post we’d like to share how Stateful releases its Marquee extension to the VS Code Marketplace and OpenVSX Registry through GitHub Actions
+- [A Complete Guide to VS Code Extension Testing](https://www.stateful.com/blog/a-complete-guide-to-vs-code-extension-testing) - Most VS Code extensions in the marketplace have minimal testing, if any at all. In this blog post you will learn how to test your VS Code extension from end to end using WebdriverIO.
 
 # Contribute
 
